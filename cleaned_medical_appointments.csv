@@ -1,0 +1,2 @@
+patientid,appointmentid,gender,scheduledday,appointmentday,age,neighbourhood,scholarship,hipertension,diabetes,alcoholism,handicap,sms_received,no-show
+False,False,False,,,False,False,False,False,False,False,False,False,False
